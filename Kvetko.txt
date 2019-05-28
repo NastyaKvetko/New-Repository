@@ -1,0 +1,11 @@
+<!DOCTYPE txt>
+<txt lang-"en">
+<head>
+	<meta charset-"UTF-8">
+	<title>Document test</title>
+</head>
+<body>
+	<h1>GIT 345</h1>
+
+</body>
+</txt>
